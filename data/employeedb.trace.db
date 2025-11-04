@@ -1,0 +1,96 @@
+2025-10-20 13:28:50.459229+05:30 jdbc[16]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "EM__DB" not found; SQL statement:
+SELECT * FROM EM__db [42102-232]
+2025-10-20 13:29:10.235202+05:30 jdbc[16]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "EM__DB" not found; SQL statement:
+SELECT * FROM EM__DB [42102-232]
+2025-10-20 13:29:11.174588+05:30 jdbc[16]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "EM__DB" not found; SQL statement:
+SELECT * FROM EM__DB [42102-232]
+2025-10-20 13:29:11.777361+05:30 jdbc[16]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "EM__DB" not found; SQL statement:
+SELECT * FROM EM__DB [42102-232]
+2025-10-20 13:29:11.954320+05:30 jdbc[16]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "EM__DB" not found; SQL statement:
+SELECT * FROM EM__DB [42102-232]
+2025-10-20 13:29:12.201473+05:30 jdbc[16]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "EM__DB" not found; SQL statement:
+SELECT * FROM EM__DB [42102-232]
+2025-10-20 13:29:12.386301+05:30 jdbc[16]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "EM__DB" not found; SQL statement:
+SELECT * FROM EM__DB [42102-232]
+2025-10-20 13:29:12.588903+05:30 jdbc[16]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "EM__DB" not found; SQL statement:
+SELECT * FROM EM__DB [42102-232]
+2025-10-20 13:29:12.787129+05:30 jdbc[16]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "EM__DB" not found; SQL statement:
+SELECT * FROM EM__DB [42102-232]
+2025-10-20 13:29:12.980748+05:30 jdbc[16]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "EM__DB" not found; SQL statement:
+SELECT * FROM EM__DB [42102-232]
+2025-10-20 13:29:13.196428+05:30 jdbc[16]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "EM__DB" not found; SQL statement:
+SELECT * FROM EM__DB [42102-232]
+2025-10-20 13:29:13.399775+05:30 jdbc[16]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "EM__DB" not found; SQL statement:
+SELECT * FROM EM__DB [42102-232]
+2025-10-20 13:29:14.107085+05:30 jdbc[16]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "EM__DB" not found; SQL statement:
+SELECT * FROM EM__DB [42102-232]
+2025-10-20 13:29:14.310078+05:30 jdbc[16]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "EM__DB" not found; SQL statement:
+SELECT * FROM EM__DB [42102-232]
+2025-10-20 13:35:57.005994+05:30 jdbc[14]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "EM__DB" not found; SQL statement:
+SELECT * FROM EM__DB [42102-232]
+2025-10-20 13:36:00.062988+05:30 jdbc[14]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "EM__DB" not found; SQL statement:
+SELECT * FROM EM__DB [42102-232]
+2025-10-20 13:36:00.948316+05:30 jdbc[14]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "EM__DB" not found; SQL statement:
+SELECT * FROM EM__DB [42102-232]
+2025-10-20 13:36:01.714436+05:30 jdbc[14]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "EM__DB" not found; SQL statement:
+SELECT * FROM EM__DB [42102-232]
+2025-10-20 13:36:01.956339+05:30 jdbc[14]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "EM__DB" not found; SQL statement:
+SELECT * FROM EM__DB [42102-232]
+2025-10-20 13:36:02.134555+05:30 jdbc[14]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "EM__DB" not found; SQL statement:
+SELECT * FROM EM__DB [42102-232]
+2025-10-20 13:36:02.343801+05:30 jdbc[14]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "EM__DB" not found; SQL statement:
+SELECT * FROM EM__DB [42102-232]
+2025-10-20 13:36:02.547990+05:30 jdbc[14]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "EM__DB" not found; SQL statement:
+SELECT * FROM EM__DB [42102-232]
+2025-10-20 13:36:02.767450+05:30 jdbc[14]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "EM__DB" not found; SQL statement:
+SELECT * FROM EM__DB [42102-232]
+2025-10-20 13:36:02.999617+05:30 jdbc[14]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "EM__DB" not found; SQL statement:
+SELECT * FROM EM__DB [42102-232]
+2025-10-20 13:36:21.847507+05:30 jdbc[14]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "EM__DB" not found; SQL statement:
+SELECT * FROM EM__DB [42102-232]
+2025-10-20 13:36:22.729923+05:30 jdbc[14]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "EM__DB" not found; SQL statement:
+SELECT * FROM EM__DB [42102-232]
+2025-10-20 13:36:22.931691+05:30 jdbc[14]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "EM__DB" not found; SQL statement:
+SELECT * FROM EM__DB [42102-232]
+2025-10-20 13:36:23.105872+05:30 jdbc[14]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "EM__DB" not found; SQL statement:
+SELECT * FROM EM__DB [42102-232]
+2025-10-20 13:36:23.298021+05:30 jdbc[14]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "EM__DB" not found; SQL statement:
+SELECT * FROM EM__DB [42102-232]
+2025-10-20 13:36:23.493278+05:30 jdbc[14]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "EM__DB" not found; SQL statement:
+SELECT * FROM EM__DB [42102-232]
+2025-10-20 13:36:23.707506+05:30 jdbc[14]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "EM__DB" not found; SQL statement:
+SELECT * FROM EM__DB [42102-232]
+2025-10-20 13:39:09.763840+05:30 jdbc[16]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "JAVASCRIPT" not found; SQL statement:
+SELECT * FROM javascript:ins('EM_DB',true) [42102-232]
